@@ -1,0 +1,14 @@
+.tiles{
+    display: flex;
+    
+}
+
+
+
+
+.boxes{
+flex-direction: column;
+float: left;
+height: 20em;
+width: 20em;
+}
